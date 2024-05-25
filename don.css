@@ -1,0 +1,29 @@
+.text2{
+    padding: 12px;
+    text-align: center;
+
+}
+.wordcount{
+    position: relative;
+    font-size: 32px;
+    font-weight: 600;
+    top: 17px;
+}
+.words{
+   border: 4px solid rgb(9, 0, 128);
+   border-radius: 3px;
+}
+button{
+    position: relative;
+    padding: 10px 20px;
+    top: 12px;
+    border: none;
+    cursor: pointer;
+    color: rgb(246, 246, 246);
+    background-color: blueviolet;
+    letter-spacing: 3px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(234, 138, 11);
+}
